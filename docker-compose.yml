@@ -1,0 +1,12 @@
+version: '2.1'
+
+services:
+  subtractonthego:
+    image: subtraction-on-the-go
+    build: .
+    environment:
+      NODE_ENV: production
+      PORT: 3000
+    command: npm run start
+    ports:
+      - 3000:3000
