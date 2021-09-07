@@ -22,7 +22,7 @@ This module is for subtracting numbers on the go
 1. URL for developer environment: http://localhost:3000
 
 ## Dockerize
-1. Run 
+1. docker-compose up 
 
 ## Standards in use
 - OpenAPI 2.0
