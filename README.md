@@ -10,11 +10,11 @@ This module is for subtracting numbers on the go
 1. VS Code IDE https://code.visualstudio.com/download (Recommended for Nodejs development not required)
 
 ### Service - One Time
-1. cd/chdir to install directory/folder ("udayy")
+1. cd/chdir to install directory/folder ("subtraction-on-the-go")
 1. npm install
 
 ### Service - Each time
-1. cd/chdir to install directory/folder ("udayy")
+1. cd/chdir to install directory/folder ("subtraction-on-the-go")
 1. npm start
 
 ### Client
